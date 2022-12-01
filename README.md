@@ -5,6 +5,7 @@ Java中，一行代码实现邮件发送。你无需关注它是怎么发送的�
 #### 1. pom.xml 中加入
 
 ````
+<!-- 邮件发送 https://gitee.com/mail_osc/email.java -->
 <dependency> 
 	<groupId>cn.zvo.email</groupId>
 	<artifactId>email</artifactId>
